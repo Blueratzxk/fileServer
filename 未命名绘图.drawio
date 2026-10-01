@@ -165,6 +165,11 @@
         <mxCell id="j7K1XWfN7VxtRMLY93gs-67" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=center;" value="Put (E,0)&amp;nbsp; &amp;nbsp; Seq=10&lt;div&gt;Put (F,10)&amp;nbsp;&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Seq=11&lt;/span&gt;&lt;/div&gt;&lt;div&gt;Delete (A)&amp;nbsp;&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Seq=12&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="268.5" y="170" as="geometry" />
         </mxCell>
+        <mxCell id="j7K1XWfN7VxtRMLY93gs-83" edge="1" parent="1" source="j7K1XWfN7VxtRMLY93gs-80" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;endArrow=oval;endFill=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="390" y="190.58823529411768" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="j7K1XWfN7VxtRMLY93gs-80" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="CurSeq=13&lt;div&gt;OldestSeq=5&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="120" x="484" y="170" as="geometry" />
         </mxCell>
@@ -173,6 +178,9 @@
         </mxCell>
         <mxCell id="j7K1XWfN7VxtRMLY93gs-82" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;Memory&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="101" x="249" y="479" as="geometry" />
+        </mxCell>
+        <mxCell id="j7K1XWfN7VxtRMLY93gs-84" parent="1" style="text;whiteSpace=wrap;html=1;align=center;" value="&lt;strong style=&quot;font-weight: 600; color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;span class=&quot;&quot;&gt;Snapshot&lt;/span&gt;&lt;/strong&gt;&lt;div&gt;&lt;strong style=&quot;font-weight: 600; color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;span class=&quot;&quot;&gt;Meta&lt;/span&gt;&lt;/strong&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="110" x="599" y="164" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
