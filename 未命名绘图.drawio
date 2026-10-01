@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="r0J6OryoP8Djj_OE0Gu8">
-    <mxGraphModel dx="1460" dy="826" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1202" dy="680" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -22,7 +22,7 @@
         <mxCell id="j7K1XWfN7VxtRMLY93gs-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="" vertex="1">
           <mxGeometry height="150" width="691" x="119" y="540" as="geometry" />
         </mxCell>
-        <mxCell id="j7K1XWfN7VxtRMLY93gs-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" value="Active Mem Table" vertex="1">
+        <mxCell id="j7K1XWfN7VxtRMLY93gs-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" value="Active&amp;nbsp;&lt;div&gt;Column Mem Table&lt;/div&gt;" vertex="1">
           <mxGeometry height="50" width="143" x="322" y="265" as="geometry" />
         </mxCell>
         <mxCell id="j7K1XWfN7VxtRMLY93gs-8" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" value="WAL" vertex="1">
@@ -37,7 +37,7 @@
         <mxCell id="j7K1XWfN7VxtRMLY93gs-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="&lt;div&gt;Frozen&lt;/div&gt;MemTable" vertex="1">
           <mxGeometry height="50" width="90" x="394" y="349" as="geometry" />
         </mxCell>
-        <mxCell id="j7K1XWfN7VxtRMLY93gs-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;" value="Active Mask&lt;div&gt;MemTable&lt;/div&gt;" vertex="1">
+        <mxCell id="j7K1XWfN7VxtRMLY93gs-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;" value="Active&amp;nbsp;&lt;div&gt;Mask&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;MemTable&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="50" width="110" x="625" y="267" as="geometry" />
         </mxCell>
         <mxCell id="j7K1XWfN7VxtRMLY93gs-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;" value="&lt;div&gt;Frozen&lt;/div&gt;MemTable" vertex="1">
