@@ -38,7 +38,7 @@
           <mxGeometry height="40" width="120" x="245" y="402" as="geometry" />
         </mxCell>
         <mxCell id="jP87Sisy89_68totUoSr-27" parent="1" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;Cloud Function&lt;/b&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="96" width="256" x="510" y="391" as="geometry" />
+          <mxGeometry height="96" width="256" x="510" y="379" as="geometry" />
         </mxCell>
         <mxCell id="jP87Sisy89_68totUoSr-29" edge="1" parent="1" source="jP87Sisy89_68totUoSr-17" style="curved=1;endArrow=classic;html=1;rounded=0;dashed=1;dashPattern=1 4;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="jP87Sisy89_68totUoSr-30" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
