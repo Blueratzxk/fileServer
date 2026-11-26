@@ -246,6 +246,9 @@
             <mxPoint x="130" y="192" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="x0yTZH-Bw8_8OYZmYkUA-4" parent="1" style="text;whiteSpace=wrap;html=1;align=center;" value="&lt;font color=&quot;#0f1115&quot; face=&quot;quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Open Sans, Helvetica Neue, sans-serif&quot; size=&quot;3&quot;&gt;&lt;span style=&quot;caret-color: rgb(15, 17, 21); background-color: rgb(255, 255, 255);&quot;&gt;&lt;b&gt;Write&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#0f1115&quot; face=&quot;quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Open Sans, Helvetica Neue, sans-serif&quot; size=&quot;3&quot;&gt;&lt;span style=&quot;caret-color: rgb(15, 17, 21); background-color: rgb(255, 255, 255);&quot;&gt;&lt;b&gt;Batch&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="110" x="370" y="188" as="geometry" />
+        </mxCell>
         <mxCell id="x0yTZH-Bw8_8OYZmYkUA-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;fontStyle=1;fontSize=16;" value="NCI&lt;div&gt;SST&lt;/div&gt;" vertex="1">
           <mxGeometry height="65" width="60" x="178.5" y="600" as="geometry" />
         </mxCell>
